@@ -1,0 +1,15 @@
+{
+  "name": "nodejs-practice-server",
+  "version": "1.0.0",
+  "description": "A server built to practice creating NodeJS servers.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "author": "Cian O'Gralaigh",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^1.18.11"
+  }
+}
